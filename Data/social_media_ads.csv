@@ -1,0 +1,11 @@
+Campaign_ID,Campaign_Name,Platform,Impressions,Clicks,Spend,Conversions,Revenue
+C_001,Summer_Sale,Facebook,45000,1200,600,45,1800
+C_002,Summer_Sale,Instagram,62000,2100,850,72,2900
+C_003,New_Arrivals,Instagram,35000,950,500,30,1200
+C_004,New_Arrivals,Google,28000,600,400,25,1000
+C_005,Brand_Awareness,Facebook,85000,800,450,12,350
+C_006,Winter_Clearance,Facebook,52000,1400,700,55,2200
+C_007,Winter_Clearance,Instagram,48000,1600,750,60,2500
+C_008,Holiday_Special,Google,95000,2500,1200,110,5500
+C_009,Holiday_Special,Facebook,75000,1800,900,85,4200
+C_010,Flash_Sale,Instagram,30000,1100,450,50,2100
